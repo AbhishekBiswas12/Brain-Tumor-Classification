@@ -1,0 +1,12 @@
+h5py
+keras
+matplotlib
+numpy
+opencv-contrib-python
+pandas
+Pillow
+protobuf
+streamlit
+tensorboard
+tensorflow
+zipp
