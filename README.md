@@ -20,3 +20,6 @@ The types of Brain tumors which can be classified by this model are:
   
 We have achieved **training**, **validation** and **testing accuracy** of 87.12%, 74.65% and 79.17% respectively.
  
+To use the Web Application, kindly visit the following link:
+
+https://abhishekbiswas12-brain-tumor-classification-webapp-iq7nva.streamlit.app/
