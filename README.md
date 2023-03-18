@@ -6,11 +6,11 @@ We have trained a **Convolutional Neural Network** to process Brain MRI scans to
 
 ![alt text](https://github.com/AbhishekBiswas12/Brain-Tumor-Classification/blob/main/Model%20Arch.jpg)
 
-**Total params:** 440,100
+**Total params:** 463,748
 
-**Trainable params:** 439,844
+**Trainable params:** 463,172
 
-**Non-trainable params:** 256
+**Non-trainable params:** 576
 
 The types of Brain tumors which can be classified by this model are:
   1. 'glioma_tumor'
@@ -18,7 +18,7 @@ The types of Brain tumors which can be classified by this model are:
   3. 'no_tumor'
   4. 'pituitary_tumor'
   
-We have achieved **training**, **validation** and **testing accuracy** of 87.12%, 74.65% and 79.17% respectively.
+We have achieved **training**, **validation** and **testing accuracy** of 93%, 85.8% and 86% respectively.
  
 To use the Web Application, kindly visit the following link:
 
