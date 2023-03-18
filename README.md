@@ -22,4 +22,4 @@ We have achieved **training**, **validation** and **testing accuracy** of 93%, 8
  
 To use the Web Application, kindly visit the following link:
 
-https://abhishekbiswas12-brain-tumor-classification-webapp-iq7nva.streamlit.app/
+https://abhishekbiswas12-brain-tumor-classification-webapp-mjumcs.streamlit.app/
